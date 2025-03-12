@@ -279,6 +279,7 @@ public class Tutorial {
         //Remember that the index system starts at 0, NOT "1"  / Index 1 = value 2
 
         //Nested Example of a 3D array
+        //testing loop
         for (int i = 0; i < cube.length; i++) {           // Iterate over layers
             for (int j = 0; j < cube[i].length; j++) {    // Iterate over rows in each layer
                 for (int k = 0; k < cube[i][j].length; k++) { // Iterate over columns in each row
